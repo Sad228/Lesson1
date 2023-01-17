@@ -21,6 +21,7 @@ img {
     margin: 20px;
 }
 .for {
+    margin-left: 20px;
     background: aqua;
     width: 870px;
     font-family: cursive;
@@ -28,11 +29,11 @@ img {
 }
 
 a {
-    display: flex;
     text-decoration: none;
     color: red;
     text-align: center;
-    justify-content: center;
+    margin-left: 200px;
+
 }
 li {
     background: cornflowerblue;
